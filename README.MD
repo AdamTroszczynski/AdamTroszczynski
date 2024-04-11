@@ -27,7 +27,7 @@ I like learning new skills and expanding my current knowledge
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ### 🖥️ I’m currently working on:
-[![Cooking Blog](https://github-readme-stats.vercel.app/api/pin/?username=AdamTroszczynski&repo=Cooking_Blog&theme=bear)](https://github.com/AdamTroszczynski/ViewHunters) \
+[![Cooking Blog](https://github-readme-stats.vercel.app/api/pin/?username=AdamTroszczynski&repo=ViewHunters&theme=bear)](https://github.com/AdamTroszczynski/ViewHunters) \
 
 
 ### 📊 GitHub Stats:
